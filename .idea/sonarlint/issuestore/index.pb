@@ -9,3 +9,15 @@ V
 0src/main/java/codesignal/com/FirstDuplicate.java,0\b\0bc980e0522786f1b985137bc223af32b9756c9f
 l
 <src/main/java/codesignal/com/FirstNotRepeatingCharacter.java,2\d\2d2efdd5552c93182266452b7ca83e990f82ff0a
+a
+1src/main/java/codility/arrays/CyclicRotation.java,b\f\bf04dc4613dc37b2820774d23311f945ae014c50
+h
+8src/main/java/codility/arrays/OddOccurrencesInArray.java,e\1\e13765b578a0421623187cd024c5aad749f7ab39
+a
+1src/main/java/codility/binarygroup/BinaryGap.java,1\8\18abadcb5fc3a5885a393a72ca96f210747dd85a
+b
+2src/main/java/codility/timecomplexity/FrogJmp.java,1\f\1fcfad01ae05a77f9439a837375c113a8c33a029
+j
+:src/main/java/codility/timecomplexity/TapeEquilibrium.java,4\0\407840732bf07555da8f1f7ad5b8163f8628bbe2
+j
+:src/main/java/codility/timecomplexity/PermMissingElem.java,8\9\899480ba1d508de563add3118271ab47aef782b0

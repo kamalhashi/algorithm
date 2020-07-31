@@ -1,0 +1,12 @@
+
+Z
+java:S11977"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8©”„‚º.
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(¸ôå8©”„‚º.
+m	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¦Ò½8²œ’Ÿº.
+r	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Ü«‘úÿÿÿÿ8×ÅÈº.
+{
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÚĞŸøÿÿÿÿ8šŸÎº.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—øãıÿÿÿÿ8Ş‘Ìº.
+T
+java:S1481+"2Remove this unused "missingNumber" local variable.(µµ¹íıÿÿÿÿ8û¡Ÿº.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢‚˜úùÿÿÿÿ8Çñ°º.

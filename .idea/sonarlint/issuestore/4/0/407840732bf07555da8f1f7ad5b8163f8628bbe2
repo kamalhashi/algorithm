@@ -1,0 +1,9 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ŠúÃÇ8â­‹¥º.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—øãıÿÿÿÿ8Ó•‡£º.
+C
+java:S1481"&Remove this unused "A" local variable.(ñàº8ú©¥¥º.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñàº8·–§£º.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ú—¦ë8·–§£º.
+R
+java:S1854"5Remove this useless assignment to local variable "A".(ñàº8ú©¥¥º.
